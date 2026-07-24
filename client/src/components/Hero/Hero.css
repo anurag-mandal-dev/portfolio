@@ -37,13 +37,18 @@
     margin-bottom:20px;
 }
 
-.hero-role{
-    color:#3B82F6;
+.hero-role {
+  font-size: 34px;
+  font-weight: 600;
 
-    font-size:34px;
-    font-weight:600;
+  margin-bottom: 25px;
 
-    margin-bottom:25px;
+  color: #F8FAFC;
+}
+
+.hero-role span {
+    font-size: 45px;
+  color: #3B82F6;
 }
 
 .hero-description{
@@ -52,7 +57,7 @@
     font-size:18px;
     line-height:1.9;
 
-    max-width:650px;
+    max-width:550px;
 }
 
 .profile-image-container {

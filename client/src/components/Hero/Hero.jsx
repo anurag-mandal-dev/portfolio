@@ -19,7 +19,7 @@ function Hero() {
                 </h1>
 
                 <h2 className="hero-role">
-                    Python Backend Developer
+                    <span>Python</span> Backend Developer
                 </h2>
 
                 <p className="hero-description">
