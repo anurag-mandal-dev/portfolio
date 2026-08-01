@@ -1,0 +1,25 @@
+/* ===========================
+   Projects Section
+=========================== */
+
+.projects{
+    padding:100px 8%;
+    background:var(--bg-primary);
+}
+
+.projects-container{
+    max-width:var(--container-width);
+    margin:auto;
+}
+
+.projects-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(340px,1fr));
+
+    gap:35px;
+
+    margin-top:60px;
+
+}
